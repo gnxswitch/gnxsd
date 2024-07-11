@@ -1,5 +1,7 @@
 # gnxsd
 
+[![Github All Releases](https://img.shields.io/github/downloads/gnxswitch/gnxsd/total.svg)]()
+
 [PT-BR] 
 Este é apenas um repositório auxiliar do GNX, contendo somente os arquivos do cartão SD para que o CNX Updater possa baixá-los.
 
