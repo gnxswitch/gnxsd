@@ -5,7 +5,7 @@ Este é apenas um repositório auxiliar do GNX, contendo somente os arquivos do 
 
 Para maiores informações, por favor visite o repositório oficial do GNX:
 
-https://github.com/vncsmnl/GNX/releases
+https://github.com/vncsmnl/GNX/
 
 
 
